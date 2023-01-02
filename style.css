@@ -1,0 +1,30 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+  background:linear-gradient(teal,cyan)
+}
+
+.header_div
+{
+    background:rgb(209, 194, 77);
+    color: #ea0e0e;
+}
+
+.header_div p
+{
+    font-family: 'Roboto', sans-serif;
+    color:blueviolet;
+    letter-spacing: 3px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Anybody', cursive;
+    margin-top: 20px;
+    width:130px;
+    font-weight:bold;
+    letter-spacing:3px;
+}
+
